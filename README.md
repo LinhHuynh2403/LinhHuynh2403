@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Linh Huynh
-- 👀 I’m interested in developing a web application by doing UI/UX and backend development 
+- 👀 I’m interested in developing a web application by doing UI/UX and backend development, ML/AI 
 - 📫 How to reach me vanlinhtpnt@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like crochetting
