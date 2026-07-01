@@ -1,6 +1,6 @@
 Hi! I am Linh
 
-🎓 Computer Science student at UC Davis  
+🎓 B.S Computer Science student at UC Davis  
 🤖 AI Intern | Aspiring AI/ML Engineer  
 🌱 Interested in startups, healthtech, and applied machine learning  
 
@@ -20,7 +20,7 @@ I’m passionate about building technology that creates real-world impact, espec
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, Python, 
+- **Languages:** Java, Python, React, HTML, CSS
 - **Frameworks & Tools:** PyTorch, LangChain, FastAPI, Firebase, Ollama  
 - **Databases:** SQL, PostgreSQL
 
